@@ -22,7 +22,7 @@ body {
   padding: 35px;
 }
 img {
-  margin: 10px auto;
+  margin: 0px auto;
   width: 90px;
   border-radius: 50%;
 }
@@ -60,7 +60,7 @@ p{
 }
 
 #socialLinks a{
-  padding: 15px 0;
+  padding: 12px 0;
   background: hsl(0, 0%, 20%);
   text-align: center;
   text-decoration: none;
@@ -81,6 +81,6 @@ p{
 
 @media (min-width:375px){
   .container{
-    max-width: 337px;
+    max-width: 372px;
   }
 }
